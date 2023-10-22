@@ -29,7 +29,7 @@ hope you feel great now
 
 FINALY THE LINK WE WERE SEARCHING FOR!!!
 
-the link required a password but we already have those from the document since as a digital forensics investigator you naturally acquired the habit of keeping important info in an open notepad just in case you need them later.
+the link required a password but we already have those from the document since as a digital forensics investigator you naturally acquire the habit of keeping important info in an open notepad just in case you need them later.
 
 the password was `dkwero38oerA^t@#.` and we got the flag in the last 10 minutes.
 `Flag{FR13ND5_R41lY1NG_3VERY0N3_EMBR4C1N9_P34CE_4DV0C473_L0U61Y_3XPRE551N9_S01iDAR17Y}`
