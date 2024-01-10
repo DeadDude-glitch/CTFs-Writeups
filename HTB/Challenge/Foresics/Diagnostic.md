@@ -229,7 +229,7 @@ Dear old N.C.U.
 
 with a little focus you can tell that the song is ![[Michigan's "(Hail to) The Victors](https://www.youtube.com/watch?v=mURDwg_wilE) 
 
-You can also notice the flag being up there but no in order.
+You can also notice the flag being up there but not in order.
 yet the order can be seen there too!
 
 Enjoy the music while you collect it.
